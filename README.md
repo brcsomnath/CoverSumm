@@ -4,7 +4,7 @@
 
 We present the implementation of the TMLR 2024 paper:
 
-> [**Incremental Extractive Opinion Summarization Using Cover Trees**](https://arxiv.org/pdf/2310.11401.pdf),<br/>
+> [**Incremental Extractive Opinion Summarization Using Cover Trees**](https://arxiv.org/pdf/2401.08047),<br/>
 [Somnath Basu Roy Chowdhury](https://www.cs.unc.edu/~somnath/)<sup>1</sup>, [Nicholas Monath](https://people.cs.umass.edu/~nmonath/)<sup>2</sup>, [Kumar Avinava Dubey](https://scholar.google.co.in/citations?user=tBbUAfsAAAAJ&hl=en)<sup>3</sup>, [Manzil Zaheer](https://scholar.google.com/citations?hl=en&user=A33FhJMAAAAJ)<sup>2</sup>, [Andrew McCallum](https://people.cs.umass.edu/~mccallum/)<sup>2</sup>, [Amr Ahmed](https://scholar.google.co.in/citations?user=tBbUAfsAAAAJ&hl=en)<sup>3</sup>, and [Snigdha Chaturvedi](https://sites.google.com/site/snigdhac/)<sup>1</sup>. <br>
 UNC Chapel Hill<sup>1</sup>,  Google Deepmind<sup>2</sup>, Google Research<sup>3</sup>
 
